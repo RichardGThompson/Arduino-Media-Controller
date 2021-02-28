@@ -4,3 +4,6 @@ Need a way to control your media in a totally unnessacary way? Well here is the 
 
 ## Wiring Diagram
 ![Wiring Diagram](/images/WiringDiagram.png)
+
+## Finished Product
+![Finished Product](/images/FinishedProduct.jpg)
